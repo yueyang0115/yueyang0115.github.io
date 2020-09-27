@@ -1,0 +1,57 @@
+I"�<h1>Example headline!</h1>
+<div id="experience" class="background-alt">
+       <h1> </h1>
+        <div id="experience-timeline">
+            <div data-date="May 2020 - Aug 2020">
+                <h3>Employer Name</h3>
+                <h4>Job Title</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+
+            <div data-date="September 2015 – September 2016">
+                <h3>Employer Name</h3>
+                <h4>Job Title</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+
+            <div data-date="September 2015 – September 2016">
+                <h3>Employer Name</h3>
+                <h4>Job Title</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+        </div>
+    </div>
+
+<h1>Experience</h1>
+<hr />
+<h2>Software Engineer Intern</h2>
+<h4>May 2020 - Aug 2020 | Duke University</h4>
+<ul>
+  <li>Developed an <strong>Android application</strong> which enables users to explore the virtual word, build buildings, buy equipment, fight monsters, upgrade soldiers and add other users as friends while walking around in real world.</li>
+  <li>Responsible for <strong>backend server development</strong>. Handled concurrency requests with <strong>multi-thread programming</strong>, realized server-client communication with <strong>TCP socket programming, JSON and Netty</strong>, interacted <strong>Postgres</strong> database with <strong>Hibernate</strong>.</li>
+  <li>Applied <strong>Agile</strong> methodology, carried out issue tracking and CI/CD pipeline.</li>
+  <li>Carried out unit tests with <strong>JUnit</strong> framework and used <strong>Mockito</strong> to mock external dependencies.</li>
+</ul>
+<div align="center"> 
+	    <img src="img/app.jpg" width="200px" />
+</div>
+<hr />
+
+<h2>Research and Development Intern</h2>
+<h4>August 2018 - Mar 2019 | Beijing Institute of Technology</h4>
+<ul>
+  <li>Worked on magnetic resonance imaging <strong>(MRI) data harmonization</strong>. Developed algorithms to eliminate the differences caused by the scanner.</li>
+  <li>Calculated RISH features from the original MRI signal. Based on that, realized a <strong>linear data harmonization algorithm</strong> and a <strong>CNN machine-learning-based nonlinear algorithm</strong>.</li>
+  <li>The proposed algorithms harmonize the <strong>raw signal</strong> from scanners, eliminate the changes caused by scanners while <strong>maintaining the fiber orientation</strong> in human brain. Any derived quantity from the harmonized data can be pooled from different sites for <strong>further medical analysis</strong>.</li>
+  <li>Tools and skills: Keras, machine learning, DIPY, NiBabel, Ants</li>
+</ul>
+<div align="center"> 
+	    <img src="img/MRI.jpg" width="200px" />
+</div>
+:ET

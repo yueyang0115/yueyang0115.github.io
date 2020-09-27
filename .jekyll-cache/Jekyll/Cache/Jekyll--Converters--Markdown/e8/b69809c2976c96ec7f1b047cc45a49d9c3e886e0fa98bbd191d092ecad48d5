@@ -1,0 +1,24 @@
+I"9<p>Alright, you’ve got a clean copy and are ready to push some schmancy pages for the world to ogle at.</p>
+
+<ul>
+  <li>Edit <code class="language-plaintext highlighter-rouge">_config.yml</code> to change your title, keywords, and description.</li>
+  <li>
+    <p>Create a new file in <code class="language-plaintext highlighter-rouge">_posts/</code> called <code class="language-plaintext highlighter-rouge">2014-01-01-intro.md</code>
+Edit it, and add:</p>
+  </li>
+  <li>Create a second post called <code class="language-plaintext highlighter-rouge">2014-01-02-art.md</code> with an divider image this time:</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="code"><pre>---
+title: "Art"
+---
+#### A new section- oh the humanity!
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<h3 style="margin-top:100px;">Also see <strong>README.md</strong> <a href="https://github.com/t413/SinglePaged#usage"><em>on github!</em></a></h3>
+
+:ET

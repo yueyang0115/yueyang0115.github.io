@@ -378,3 +378,74 @@ nav ul li:hover, nav ul li.active {
   display:inline-block;
   margin-bottom:10px;
 }
+
+// Define base and accent colors
+$base-color: #3498db;
+$base-color-hover: darken($base-color, 10%);
+
+// Define background colors
+$background: #fff;
+$background-alt: #f2f2f5;
+
+// Define border colors
+$border: #dcd9d9;
+
+// Define text colors
+$heading: #374054;
+$text: #74808a;
+
+
+#education {
+  padding: 50px 15px 20px 15px;
+  border-bottom: 1px solid #dcd9d9;
+  text-align: center;
+
+  h2 {
+      color: #374054;
+      margin-bottom: 50px;
+  }
+}
+
+.education-block {
+  max-width: 820px;
+  margin: 0 auto 30px auto;
+  padding: 15px;
+  border: 3px solid #dcd9d9;
+  text-align: left;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.8);
+
+  h3 {
+      font-weight: 500;
+      float: left;
+      margin: 0;
+      color: #374054;
+  }
+
+  span {
+      color: #74808a;
+      float: right;
+  }
+
+  h4 {
+      color: #74808a;
+      clear: both;
+      font-weight: 500;
+      margin: 0 0 15px 0;
+  }
+
+  p, ul {
+      margin: 0;
+      color: #74808a;
+      font-size: 0.9em;
+  }
+
+  ul {
+      padding: 0 0 0 15px;
+  }
+}
+/*
+    --------------------------------
+    -----  Experience Styles -----
+    --------------------------------
+*/
+
