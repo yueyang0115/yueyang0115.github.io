@@ -1,0 +1,13 @@
+I"�<h1>About Me</h1>
+
+<p>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></a>
+I’m Yue Yang, a second-year ECE master student at Duke University.</p>
+<ul>
+  <li>🎓  I will graduate in May 2021</li>
+  <li>👩‍💻  I’m looking for a full-time software engineer position</li>
+  <li>👍  I am good at data structure &amp; algorithm, Java &amp; C++ OO design, system programming (concurrency, TCP socket), web development</li>
+</ul>
+
+<p>Oh– go see <a href="https://github.com/t413/SinglePaged#fancy-jekyll-powered-single-page-site">some examples</a>!</p>
+
+:ET
