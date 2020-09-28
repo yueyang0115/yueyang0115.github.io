@@ -51,13 +51,35 @@
       </div>
     {% endfor %}
 
-
-    <div id="footer" class="section text-white">
+    <footer>
       <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
+          <div class="row">
+              <div class="col-sm-5 copyright">
+                  <p>
+                      Copyright &copy; 2020 Yue Yang
+                  </p>
+              </div>
+              <div class="col-sm-2 top">
+                  <span id="to-top">
+                      <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                  </span>
+              </div>
+              <div class="col-sm-5 social">
+                  <ul>
+                      <li>
+                          <a href="https://github.com/yueyang0115" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://www.linkedin.com/in/yue-yang-b37482142/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
       </div>
-    </div>
+  </footer>
+  <!-- End footer -->
+
+
   </div>
 
 {% include analytics.html %}

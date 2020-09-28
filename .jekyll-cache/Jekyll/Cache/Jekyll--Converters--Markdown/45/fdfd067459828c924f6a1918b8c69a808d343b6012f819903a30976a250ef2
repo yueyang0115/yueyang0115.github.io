@@ -1,22 +1,12 @@
----
-title: "home"
-bg: white
-color: '#8b8378'
-style: center
----
+I"ì<h1 class="text-purple">Yue Yang</h1>
 
+<div class="subtlecircle sectiondivider-big"> 
+	    <img src="img/yueyang.png" />
+</div>
 
-# Yue Yang
-{: .text-purple}
+<h3 class="text-purple">Seeking full-time software engineer position!</h3>
 
-<div class = "subtlecircle sectiondivider-big"> 
-	    <img src="img/yueyang.png"/>
-</div>    
-
-### Seeking full-time software engineer position!
-{: .text-purple}
-
-<a href="https://yueyang0115.github.io/asset/yueyang_resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a>
+<p><a href="https://yueyang0115.github.io/asset/yueyang_resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a></p>
 <div class="col-sm-8 social">
     <ul>        
         <li>
@@ -27,3 +17,4 @@ style: center
         </li>
     </ul>
 </div>
+:ET
