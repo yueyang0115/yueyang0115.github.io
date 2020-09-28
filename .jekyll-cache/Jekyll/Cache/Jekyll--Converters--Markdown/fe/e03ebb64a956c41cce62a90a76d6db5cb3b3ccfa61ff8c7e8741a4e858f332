@@ -1,18 +1,11 @@
----
-title: "projects"
-bg: white
-color: black
-fa-icon: cloud-upload
----
-
-<div id="projects">
+I" <div id="projects">
 <h1 class="heading">PROJECTS</h1>
-<br><br>
+<br /><br />
 <div class="row ">  
     <div class="col-md-6" style="visibility:hidden animation-name:none;">
         <div class="project shadow-large">
             <div class="project-image">
-                <img src="img/fantasy.jpg" width="265px"/>
+                <img src="img/fantasy.jpg" width="265px" />
             </div>
             <div class="project-info">
                 <h3>Fantasy Game</h3>
@@ -33,7 +26,7 @@ fa-icon: cloud-upload
                 </p>
                 <a href="https://github.com/yueyang0115/RISK-Game">View Project</a>       
             </div>
-            <br>
+            <br />
         </div>
     </div>
 </div>
@@ -41,7 +34,7 @@ fa-icon: cloud-upload
     <div class="col-md-6" style="visibility:hidden animation-name:none;">
         <div class="project shadow-large">
             <div class="project-image">
-                <img src="img/amazon.jpg" width="265px"/>
+                <img src="img/amazon.jpg" width="265px" />
             </div>
             <div class="project-info">
                 <h3>Mini Amazon System</h3>
@@ -54,7 +47,7 @@ fa-icon: cloud-upload
     <div class="col-md-6" style="visibility:hidden animation-name:none;">
         <div class="project shadow-large">
             <div class="project-image">
-                <img src="img/ride.jpg" width="265px"/>
+                <img src="img/ride.jpg" width="265px" />
             </div>
             <div class="project-info">
                 <h3>Ride Share Web-App</h3>
@@ -69,7 +62,7 @@ fa-icon: cloud-upload
     <div class="col-md-6" style="visibility:hidden animation-name:none;">
         <div class="project shadow-large">
             <div class="project-image">
-                <img src="img/proxy.png" width="265px" height = "300px"/>
+                <img src="img/proxy.png" width="265px" height="300px" />
             </div>
             <div class="project-info">
                 <h3>HTTP Caching Proxy</h3>
@@ -82,7 +75,7 @@ fa-icon: cloud-upload
     <div class="col-md-6" style="visibility:hidden animation-name:none;">
         <div class="project shadow-large">
             <div class="project-image">
-                <img src="img/protocol.png" width="265px" height = "300px"/>
+                <img src="img/protocol.png" width="265px" height="300px" />
             </div>
             <div class="project-info">
                 <h3>Protocol Buffer</h3>
@@ -95,3 +88,4 @@ fa-icon: cloud-upload
 </div>
 
 </div>
+:ET
