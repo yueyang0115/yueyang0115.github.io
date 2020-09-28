@@ -1,0 +1,31 @@
+I"�<div id="services-rows" class="row">
+  <div class="col-sm-6 col-lg-6 wow slideInUp" style="visibility:hidden;animation-name:none;">
+    <div class="service-item"><div class="service-image"><img class="rs-show-icon" src="img/star.svg" alt="Yellow star" /></div><div class="service-content"><h4 class="service-title">Corporate Shows</h4><p>Robert Strong’s specialty is corporate events. The humor is corporate clean and he customizes each show to integrate your theme and messaging. Whether it is to get your team laughing or for your prospective customer, Robert Strong makes your event memorable.</p></div></div></div><div class="col-sm-6 col-lg-6 wow slideInUp" style="visibility:hidden;animation-name:none;"><div class="service-item"><div class="service-image"><img class="rs-show-icon" src="img/star.svg" alt="Yellow star" /></div><div class="service-content"><h4 class="service-title">Trade Show Presenter</h4><p>Robert Strong knows trade shows. He is at 20+ conventions/conferences a year for the past 15 years. He is an expert at attracting attendees to your booth, communicating your sales message, qualifying &amp; capturing the, and introducing them to your sales team.</p></div></div></div><div class="col-sm-6 col-lg-6 wow slideInUp" style="visibility:hidden;animation-name:none;"><div class="service-item"><div class="service-image"><img class="rs-show-icon" src="img/star.svg" alt="Yellow star" /></div><div class="service-content"><h4 class="service-title">Team Building Workshops</h4></div></div></div>              </div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>        &lt;/div&gt;
+</code></pre></div></div>
+
+<h2>Projects</h2>
+
+<p>So you’ve got a copy running and there’s some new update? Let’s update!</p>
+
+<ol>
+  <li>Checkout your github-pages branch
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">git checkout gh-pages</code> for a standalone or existing page</li>
+      <li><code class="language-plaintext highlighter-rouge">git checkout master</code> for a <em>username.github.io</em> page</li>
+    </ul>
+  </li>
+  <li>run <code class="language-plaintext highlighter-rouge">git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git</code> to be sure you have access to this repository (you can run this command at any time).</li>
+  <li><code class="language-plaintext highlighter-rouge">git fetch singlepage</code> to fetch-in-place new changes.</li>
+  <li>Update to the new base (using merge)
+    <ol>
+      <li><code class="language-plaintext highlighter-rouge">git merge singlepage/publish</code></li>
+    </ol>
+  </li>
+  <li>You can alternatively update using rebase. This <em>rewrites history</em> (<strong>bad</strong>), but it is cleaner.
+    <ol>
+      <li><code class="language-plaintext highlighter-rouge">git rebase singlepage/publish</code></li>
+    </ol>
+  </li>
+</ol>
+:ET

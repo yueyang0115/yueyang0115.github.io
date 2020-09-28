@@ -1,0 +1,86 @@
+I"(<div id="projects">
+<h1 class="heading">PHOTO</h1>
+
+<p>I really really love taking photos of sunset, below are some of the pictures I took. Everything is perfect, the sky, the clouds, the color......</p>
+
+<div class="row ">  
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset1.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset2.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset3.jpg" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row ">  
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset7.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset8.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset9.jpg" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row ">  
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset10.jpg" />
+            </div>
+        </div>
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset5.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset4.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset11.jpg" />
+            </div>
+        </div>
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="img/sunset6.jpg" />
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+:ET

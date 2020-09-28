@@ -1,0 +1,115 @@
+I"�<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;h2 class="heading"&gt;Projects&lt;/h2&gt;
+    &lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="project shadow-large"&gt;
+                &lt;div class="project-image"&gt;
+                    &lt;img src="images/project.jpg" /&gt;
+                &lt;/div&gt;
+                &lt;!-- End .project-image --&gt;
+                &lt;div class="project-info"&gt;
+                    &lt;h3&gt;Project Name Here&lt;/h3&gt;
+                    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    &lt;/p&gt;
+                    &lt;a href="#"&gt;View Project&lt;/a&gt;
+                &lt;/div&gt;
+                &lt;!-- End .project-info --&gt;
+            &lt;/div&gt;
+            &lt;!-- End .project --&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;
+    <!-- End #projects --></p>
+
+<div id="projects">
+<div class="row ">  
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h3>Project Name Here</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h4>Project Name Here</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row ">  
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h3>Project Name Here</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h4>Project Name Here</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row ">  
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h3>Project Name Here</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                <img src="images/project.jpg" />
+            </div>
+            <div class="project-info">
+                <h4>Project Name Here</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+                <a href="#">View Project</a>       
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<h2>Projects</h2>
+
+<p>So you’ve got a copy running and there’s some new update? Let’s update!</p>
+:ET

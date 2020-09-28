@@ -1,0 +1,131 @@
+I"<<div id="services-rows" class="row">
+    <div class="col-sm-6 col-lg-6 wow slideInUp" style="visibility:hidden;animation-name:none;">
+        <div class="service-item">
+            <div class="service-image">
+              <img class="rs-show-icon" src="img/star.svg" alt="Yellow star" />
+            </div>
+            <div class="service-content">
+              <h4 class="service-title">Corporate Shows</h4>
+              <p>Robert Strong’s specialty is corporate events. The humor is corporate clean and he customizes each show to integrate your theme and messaging. Whether it is to get your team laughing or for your prospective customer, Robert Strong makes your event memorable.
+              </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-lg-6 wow slideInUp" style="visibility:hidden animation-name:none;">
+        <div class="service-item">
+            <div class="service-image">
+              <img class="rs-show-icon" src="img/star.svg" alt="Yellow star" />
+            </div>
+            <div class="service-content">
+              <h4 class="service-title">Trade Show Presenter</h4>
+              <p>Robert Strong knows trade shows. He is at 20+ conventions/conferences a year for the past 15 years. He is an expert at attracting attendees to your booth, communicating your sales message, qualifying &amp; capturing the, and introducing them to your sales team.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Projects</h2>
+
+<p>So you’ve got a copy running and there’s some new update? Let’s update!</p>
+
+<div id="projects" class="background-alt">
+        <h2 class="heading">Projects</h2>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/OnlineFoodCourt.png" />
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Online Food Court</h3>
+                        <span class="badge badge-pill badge-java">Java EE</span>
+                        <span class="badge badge-pill badge-php">MySQL</span>
+                        <span class="badge badge-pill badge-html">Html</span>
+                        <span class="badge badge-pill badge-javascript">Javascript</span>
+                        <p align="left">As a team leader, I managed the project by leading weekly meeting and discussion. We ported Bootstrap for front-end and developed back-end in multi-tier fashion. We also wrote professional software document to demonstrate the different
+                            aspects of the system with Use-Case Diagram, Class Diagram, Architecture Diagram and other diagrams in OO principle. </p>
+
+                        <a href="https://github.com/menyf/OnlineFoodCourt">View Project</a>
+                    </div>
+                </div>
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/FoodPin.png" />
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Food Pin</h3>
+                        <span class="badge badge-pill badge-php">Swift</span>
+                        <span class="badge badge-pill badge-android">iOS</span>
+                        <!-- <span class="badge badge-pill badge-python">Python - Django</span> -->
+                        <p align="left">
+                            <br /> As a side project, I learned iOS development by follow the book <i><a href="https://www.appcoda.com/swift/">Beginning iOS 11 Programming with Swift</a></i>. This project is a Yelp-like app that enable users to find restaurant
+                            they like, give feedback. It also includes a lot of animation and visual effect to improve user experience.
+                        </p>
+                        <!-- <a href="#">View Project (To Be Updated)</a> -->
+                    </div>
+                </div>
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/waduke.png" />
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Washington Duke Membership Management</h3>
+                        <span class="badge badge-pill badge-html">HTML</span>
+                        <span class="badge badge-pill badge-javascript">Javascript</span>
+                        <span class="badge badge-pill badge-java">Java EE</span>
+                        <span class="badge badge-pill badge-php">Postgre SQL</span>
+                        <p align="left">
+                            <br /> Upon request of <a href="https://www.washingtondukeinn.com">Washington Duke Inn &amp; Golf Club</a>, I worked as the software architect for this project. According to existing system and requirement documents, I designed a
+                            sub-system for membership management using Spring MVC and multi-tier architecture.
+                        </p>
+                        <!-- <a href="#">View Project (To Be Updated)</a> -->
+                    </div>
+                </div>
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/shell.png" />
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Customized Shell</h3>
+                        <span class="badge badge-pill badge-c">C/C++</span>
+                        <span class="badge badge-pill badge-php">Linux</span>
+                        <p align="left">
+                            <br /> This is a fully functional shell project including executing commands searched from envrionment path. Added feature of escaping whitespace character to allow shell taking whitespace as input argument instead of ignoring
+                            it. Implemneted pipe to redirect stream within the system.
+                        </p>
+                        <a href="https://github.com/menyf/ece551/tree/master/mp_miniproject">View Project</a>
+                    </div>
+                </div>
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/cache.png" />
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Cache Simulator</h3>
+                        <span class="badge badge-pill badge-c">C/C++</span>
+                        <span class="badge badge-pill badge-php">Linux</span>
+                        <p align="left">
+                            <br /> I designed the simulator that follows Object-Oriented principle. Delegate task to teammates for implementation. The simulator could mimic the process of multi-level Cache with Least Recent Used Algorithm. We further conducted
+                            statistical calculation for compulsory misses, capacity misses, conflict misses to validate the process.
+                        </p>
+                        <a href="https://github.com/menyf/CacheSimulator">View Project</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- End #projects --&gt;
+</code></pre></div></div>
+:ET

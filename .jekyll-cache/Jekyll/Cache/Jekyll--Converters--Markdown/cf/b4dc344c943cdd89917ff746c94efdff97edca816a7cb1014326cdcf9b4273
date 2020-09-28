@@ -1,0 +1,48 @@
+I",<p>###<em>I have lots of experience with:</em></p>
+
+<p>##MAGIC, COMEDY, JUGGLING, ESCAPES, PICK-POCKETING, MIND READING, AND MORE!</p>
+
+<p>The best way to choose from all the great San Francisco magicians is to read
+their reviews on Yelp, watch their videos on Youtube, and call them on the
+phone to get a feel for their personality. Ask a lot of questions and if you
+feel there is a good connection, that they explained what they do
+clearly, and they understand your needs, then you have found your
+entertainer.</p>
+
+<p style="text-align:left">###<em>I offer:</em></p>
+
+<ul class="square">
+  <li><strong>Stand-Up Show</strong> - I can do a comedy magic show that lasts from 5 to 60 minutes (to fill the time that is best for your needs).</li>
+  <li><strong>Master of Ceremonies</strong> - I can host, MC, moderate a panel discussion, be your auctioneer, and even be a ringmaster to keep your event running smoothly.</li>
+  <li><strong>Multiple Shows</strong> - I can do the same show multiple times for different audiences or different shows for the same audience at your event.</li>
+  <li><strong>Close-Up Magic</strong> - I can do magic up close and personal at your special event. It is also called strolling, mingling, walk-around, and atmosphere entertainment.</li>
+  <li><strong>Large Illusions</strong> - I can perform a large illusion show with an assistant to make your VIP appear magically and to highlight your theme, message, and/or product.</li>
+  <li><strong>Variety Show</strong> - I can provide a show with comedians, magicians, jugglers, acrobats, contorionists, and just about whatever you can think of. I will put it together with all of the great entertainers I have worked with over the years.</li>
+  <li><strong>Team Building Workshops</strong> - I can provide an interactive workshop for your employees that is fun, challenging, and gets everyone using the same set of creativity and communication skills.</li>
+  <li><strong>Combination of the Above</strong> - Every event and every audience is unique. I am committed to creating the perfect show that fulfills your vision!</li>
+</ul>
+<h2>Projects</h2>
+
+<p>So you’ve got a copy running and there’s some new update? Let’s update!</p>
+
+<ol>
+  <li>Checkout your github-pages branch
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">git checkout gh-pages</code> for a standalone or existing page</li>
+      <li><code class="language-plaintext highlighter-rouge">git checkout master</code> for a <em>username.github.io</em> page</li>
+    </ul>
+  </li>
+  <li>run <code class="language-plaintext highlighter-rouge">git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git</code> to be sure you have access to this repository (you can run this command at any time).</li>
+  <li><code class="language-plaintext highlighter-rouge">git fetch singlepage</code> to fetch-in-place new changes.</li>
+  <li>Update to the new base (using merge)
+    <ol>
+      <li><code class="language-plaintext highlighter-rouge">git merge singlepage/publish</code></li>
+    </ol>
+  </li>
+  <li>You can alternatively update using rebase. This <em>rewrites history</em> (<strong>bad</strong>), but it is cleaner.
+    <ol>
+      <li><code class="language-plaintext highlighter-rouge">git rebase singlepage/publish</code></li>
+    </ol>
+  </li>
+</ol>
+:ET

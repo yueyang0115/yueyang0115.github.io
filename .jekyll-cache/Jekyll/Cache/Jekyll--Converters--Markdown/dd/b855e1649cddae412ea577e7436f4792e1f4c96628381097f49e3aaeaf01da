@@ -1,0 +1,51 @@
+I"�	<div id="projects" class="background-alt">
+        <h2 class="heading">Projects</h2>
+        <div class="container">
+            <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project.jpg" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Project Name Here</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+            </div>
+        </div>
+</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- End #projects --&gt;
+</code></pre></div></div>
+
+<div class="row">
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            <div class="project-image">
+                        <img src="images/project.jpg" />
+                    </div>
+            <div>
+              <h4>Trade Show Presenter</h4>
+              <p>Robert Strong knows trade shows. He is at 20+ conventions/conferences a year for the past 15 years. He is an expert at attracting attendees to your booth, communicating your sales message, qualifying &amp; capturing the, and introducing them to your sales team.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6" style="visibility:hidden animation-name:none;">
+        <div class="project shadow-large">
+            
+            <div>
+              <h4>Trade Show Presenter</h4>
+              <p>Robert Strong knows trade shows. He is at 20+ conventions/conferences a year for the past 15 years. He is an expert at attracting attendees to your booth, communicating your sales message, qualifying &amp; capturing the, and introducing them to your sales team.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Projects</h2>
+
+<p>So you’ve got a copy running and there’s some new update? Let’s update!</p>
+:ET
